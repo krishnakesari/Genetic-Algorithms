@@ -68,3 +68,4 @@ def accuracy(solution, candidate):
             n_gene_matches += 1
             
     return n_gene_matches / len(solution)
+

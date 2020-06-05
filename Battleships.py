@@ -69,3 +69,5 @@ def accuracy(solution, candidate):
             
     return n_gene_matches / len(solution)
 
+
+new_board()
